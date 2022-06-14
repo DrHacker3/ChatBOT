@@ -1,3 +1,4 @@
+#Definitions
 def hi():
     print("Hi", name)
 
