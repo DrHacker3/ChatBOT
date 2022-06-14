@@ -31,7 +31,7 @@ def ok():
 print("Hello, I am ChatBOT. Your digital friend!")
 print("What is your name?")
 name = input("Name: ")
-print("Good to meat you", name)
+print("Good to meet you", name)
 
 #Main Program Loop
 while True:
