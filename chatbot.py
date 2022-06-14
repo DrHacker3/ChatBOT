@@ -27,10 +27,13 @@ def will():
 def ok():
     print("No probs")
 
+#Getting User Input
 print("Hello, I am ChatBOT. Your digital friend!")
 print("What is your name?")
 name = input("Name: ")
 print("Good to meat you", name)
+
+#Main Program Loop
 while True:
     resp = input("> ").lower()
     if 'hello' in resp:
